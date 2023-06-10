@@ -1,0 +1,25 @@
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\BTC Wallet.exe.config
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\BTC Wallet.exe
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\BTC Wallet.pdb
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\NBitcoin.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\System.Buffers.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\NBitcoin.xml
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\System.Buffers.xml
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.csproj.AssemblyReference.cache
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC_Wallet.Form1.resources
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC_Wallet.Properties.Resources.resources
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.csproj.GenerateResource.cache
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.csproj.CopyComplete
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.exe
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\obj\Debug\BTC Wallet.pdb
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\BitcoinLib.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\System.Security.Permissions.dll
+C:\Users\Rootx\source\repos\BTC Wallet\BTC Wallet\bin\Debug\System.Security.Principal.Windows.dll
